@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 812574bb185910a5ce079b5f967e5fd32d452df0
 # **Contributors**
 
 <!-- prettier-ignore-start -->
@@ -987,13 +983,9 @@ Vedant Borkar
 - [Lance Condie] (https://github.com/Condielj)
 - [Kranz Aklilu] (https://github.com/KranzAklilu)
 - [Lapyem Joel Okello] (https://github.com/lap-jo)
-<<<<<<< HEAD
-- [Muhaxfmmad Qazi] (https://github.com/muhammadqazi)
-=======
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Gosia Marczak] (https://github.com/ilmasota)
 - [Carlos Martinez] (https://github.com/Cima9642)
->>>>>>> 812574bb185910a5ce079b5f967e5fd32d452df0
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
 - [Pratham Pancholi]
 - [Jose Santiago](https://github.com/JDSanti)
