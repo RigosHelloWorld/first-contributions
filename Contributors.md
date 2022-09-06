@@ -3463,6 +3463,7 @@ Aditya Agarwal
 - [Shreyas H C](https://github.com/shreyashc)
 - [Rahul](https://github.com/Rahul8955)
 - [Zhuraj](https://github.com/Zhuraj)
+- [Rigo Rosa] (https://github.com/RigosHelloWorld)
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
 - [Vishesh Bardia](https://github.com/legion20)
